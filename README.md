@@ -2,7 +2,7 @@
 A simple Tailwind dashboard built using 
 
 ### Demo Here
-[Live preview](https://htmlpreview.github.io/?https://github.com/habibmhamadi/tailwind-admin/blob/main/index.html)
+[Live preview](https://jsbits-tailwind-admin-dashboard.netlify.app/)
 
 <img  src="./assets/img/lg.png" alt="Tailwind admin on large screens."/>
 <br>
